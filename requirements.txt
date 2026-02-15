@@ -1,0 +1,16 @@
+# Data & ML
+pandas
+numpy
+scikit-learn
+sdv
+# Explainability & LLM
+shap
+transformers
+accelerate
+# UI & Visualization
+streamlit
+matplotlib
+seaborn
+# Utilities
+pymupdf
+pytesseract
